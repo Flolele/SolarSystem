@@ -1,6 +1,6 @@
-Earth
-Mars
+Merkur
 Venus
 Mars
+Earth
 Jupiter
 Saturn

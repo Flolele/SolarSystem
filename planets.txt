@@ -1,6 +1,11 @@
 Merkur
 Venus
 Mars
+- Phobos
+- Deimos
 Earth
+--Its not a moon
 Jupiter
+-Io
+-Europe
 Saturn
